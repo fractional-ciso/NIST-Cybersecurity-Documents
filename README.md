@@ -5,7 +5,7 @@ Source for NIST cybersecurity documents during government shutdown
 This document provides information on the security capabilities of Bluetooth and provides recommendations to secure Bluetooth devices effectively. <br/>
 <br/>
 **NIST Framework for Improving Critical Infrastructure Cybersecurity**<br/>
-This document is designed for individual businesses and other organizations to use to assess risks they face and improve their ability to prevent, detect and respond to cyberattacks. <br/>
+This document is designed for individual businesses and other organizations to use to assess risks they face and improve their ability to prevent, detect and respond to cyber attacks. <br/>
 <br/>
 **NIST Risk Management Framework for Information Systems and Organizations (SP 800-37, Revision 2)**<br/>
 This document provides guidelines for applying the Risk Management Framework (RMF) to information systems and organizations. It provides a disciplined, structured, and flexible process for managing security and privacy risk.<br/>
