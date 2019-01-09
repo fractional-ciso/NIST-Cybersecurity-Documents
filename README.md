@@ -27,7 +27,7 @@ This document provides a foundation for the development of an effective risk man
 Please note that this document has been archived by NIST. <br/>
 <br/>
 **NIST Recommended Security Controls for Federal Information Systems (SP 800-53)**<br/>
-This document provides a catalog of security controls for all U.S federal information systems except those related to national security. <br/>
+This document provides a catalog of security controls for all U.S federal information systems except those related to national security.<br/> <br/>
 **NIST Security Considerations in the System Development Life Cycle (SP 800-64r2)**<br/>
 This document has been developed by the National Institute of Standards and Technology (NIST) in furtherance of its statutory responsibilities under the Federal Information Security Management Act (FISMA) of 2002, Public Law 107-347.<br/>
 <br/>
