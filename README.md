@@ -92,7 +92,19 @@ Provides guidelines for building effective security assessment plans and procedu
 A comprehensive update of the security controls catalog.<br/>
 <br/>
 **NIST Electronic Authentication Guideline (SP 800-63-2)**<br/>
-The document lists technical requirements for the four levels assurance defined in OMB M-04-04 in the areas of identity proofing, registration, tokens, management processes, authentication protocols and assertion mechanisms. <br/>
+The document is an information security guideline. Its purpose is to provide sets of requirements for the OMB-04-04 Levels of Assurance in the areas of identity proofing, registration, tokens, management processes, authentication protocols and assertion mechanisms. <br/>
+<br/>
+**NIST Digital Identity Guidelines (SP 800-63-3)** <br/>
+This documents is a set of digital identity guidelines that serves as a widely recognized benchmark for any organization or business wishing to implement identity verification and authentication services.<br/>
+<br/>
+**NIST Digital Identity Guidelines - Enrollment and Identity Proofing (SP 800-63A)**<br/>
+This guideline deals with how an individual, known as applicant, can prove their identity to a CSP (Credential Service Provider) and become enrolled as a valid identity.<br/>
+<br/>
+**NIST Digital Identity Guidelines - Authentication and Lifecycle Management (SP 800-63B)** <br/>
+This document focuses on best practices password. <br/>
+<br/>
+**NIST Digital Identity Guidelines - Federation and Assertions (SP 800-63C)** <br/>
+This document provides technical guidelines to CSP (Credential Service Providers) for the implementation of remote authentication.<br/>
 <br/>
 **NIST Guide to Industrial Control Systems (ICS) Security (SP 800-82 Revision 2)**<br/>
 This document provides guidance for establishing secure industrial control systems (ICS). These ICS, which include supervisory control and data acquisition (SCADA) systems, distributed control systems (DCS), and other control system configurations such as programmable logic controllers (PLC), are often found in the industrial control sectors.<br/>
