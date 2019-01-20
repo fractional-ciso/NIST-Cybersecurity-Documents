@@ -19,6 +19,9 @@ This document provides guidelines for applying the Risk Management Framework (RM
 **NIST Guidelines for Smart Grid Cybersecurity Volume 1(NISTIR 7628 Revision 1)**<br/>
 Volume 1 provides technical information on electrical grid security maintenance. <br/>
 <br/>
+**NIST Computer Security Incident Handling Guide (SP 800-61 Revision 1)**<br/>
+This Guide assists organizations in establishing computer security incident response capabilities and handling incidents efficiently and effectively. It provides guidelines for incident handling, particularly for analyzing incident-related data and determining the appropriate response to each incident. <br/>
+<br/>
 **NIST Computer Security Incident Handling Guide (SP 800-61 Revision 2)**<br/>
 This publication provides guidance on how to establish and operate an incident response capability. The guide defines an incident response lifecycle and provides information on developing procedures for performing incident handling and reporting.<br/> 
 <br/>
@@ -129,3 +132,50 @@ This document was developed in an ongoing effort to produce a unified informatio
 <br/>
 **NIST Contingency Planning Guide for Federal Information Systems (SP 800-34 Revision 1)**<br/>
 This guide provides instructions, recommendations, and considerations for federal information system contingency planning.<br/>
+**NIST Guide to Integrating Forensic Techniques into Incident Response (SP 800-86)**<br/>
+This document provides detailed information on establishing a forensic capability, including the development of policies and procedures, focusing primarily on using forensic techniques to assist with computer security incident response. <br/>
+<br/>
+**NIST Guidelines for Media Sanitization(SP 800-88)** <br/>
+This guide in intended to assist organizations and system owners in making practical sanitization decisions based on the level of confidentiality of their information. The described sanitization decision process can be applied universally.<br/>
+<br/>
+**NIST Guide to LTE Security (SP 800-187)**<br/>
+This document serves as a guide to the fundamentals of how LTE networks operate and explores the LTE security architecture. This is followed by an analysis of the threats posed to LTE networks and supporting mitigations.<br/>
+<br/>
+**NIST Information Security Continuous Monitoring (ISCM) for Federal Information Systems and Organizations (SP 800-137)** <br/>
+The purpose of this guideline is to assist organizations in the development of a continuous monitoring strategy and the implementation of a continuous monitoring program providing visibility into organizational assets, awareness of threats and vulnerabilities, and visibility into the effectiveness of deployed security controls. <br/>
+<br/>
+**HIPAA Security Rule Crosswalk to NIST Cybersecurity Framework**<br/>
+This document provides a voluntary, risk-based approach- based on existing standards, guidelines, and practices- to help organizations understand, communicate, and manage cybersecurity risks. <br/>
+<br/>
+**NIST Recommendation for Key Management- Part 1: General (Revision 3)(SP 800-57 Revision 3)** <br/>
+Recommendation for Key Management is intended primarily to help system administrators and system installers adequately secure applications based on product availability and organizational needs and to support organizational decisions about future procurements. <br/>
+<br/>
+**NIST Recommendation for Key Management- Part 1: General (Revision 4) (SP 800-57 Revision 4)** <br/>
+This document provides detailed information on key management planning, algorithm selection and appropriate key sizes, cryptographic policy, and cryptographic module selection. Organizations may be able to use the same or similar key management processes for end user devices' storage encryption, virtual private network (VPN) clients, and wireless client configuration. <br/>
+**NIST Recommendation for Key Management- Part 2: Best Practices for Key Management Organization (SP 800-57)** <br/>
+This document provides guidance on policy and security planning requirements. <br/>
+<br/>
+**NIST Recommendation for Key management - Part 3: Application-Specific Key Management Guidance (SP 800-57 Revision 1)** <br/>
+This document provides cryptographic key management guidance and best practices for the management of cryptographic keying material. <br/>
+**NIST National Initiative for Cybersecirty Education (NICE) Cybersecurity Workforce Framework (SP 800-181)** <br/>
+This framework provides a fundamental reference in support of a workforce capable of meeting an organization's cybersecurity needs by using a common, consistent lexicon to describe cybersecurity work by category, specialty area, and work role. It provides a superset of cybersecurity Knowledge, Skills, and Abilities (KSAs) and Tasks for each work role. The NICE Framework supports consistent organizational and sector communication for cybersecurity education, training, and workforce development. <br/>
+**NIST Security Self-Assessment Guide for Information Technology Systems (SP 800-26)** <br/>
+This document provided guidance on applying the Framework by identifying 17 control areas, such as those pertaining to identification and authentication and contingency planning. <br/>
+<br/>
+**NIST The Technical Specification for the Security Content Automation Protocol (SCAP): SCAP Version 1.0 (SP 800-126)** <br/>
+This document describes the basics of the SCAP component specifications and their interrelationships, the characteristics of SCAP content, as well as SCAP requirements not defined in the individual SCAP component specifications. This guide provides recommendations on how to use SCAP to achieve security automation for organizations seeking to implement SCAP.<br/>
+<br/>
+**NIST (SP 800-126A)** <br/>
+This document allows the use of particular minor version updates to SCAP 1.3
+108 component specifications and the use of particular Open Vulnerability and Assessment Language
+109 (OVAL) core schema and platform schema versions.<br/>
+<br/>
+**NIST The Technical Specification for the Security Content Automation Protocol (SCAP): SCAP Version 1.1 (SP 800-126 Revision 1)** <br/>
+This document provides the definitive technical specification for Version 1.1 of the Security Content Automation Protocol (SCAP). SCAP consists of a suite of specifications for standardizing the format and nomenclature by which security software communicates information about software flaws and security configurations.<br/>
+<br/>
+**NIST The Technical Specification for the Security Content Automation Protocol (SCAP): SCAP Version 1.2 (SP 800-126 Revision 2)** <br/>
+This document defines requirements for creating and processing SCAP content. These requirements build on the requirements defined within the individual SCAP component specifications. Each new requirement pertains either to using multiple component specifications together or to further constraining one of the individual component specifications. <br/>
+<br/>
+**NIST The Technical Specification for the Security Content Automation Protocol (SCAP): SCAP Version 1.3 (SP 800-126 Revision 3)** <br/>
+This publication, along with its annex (NIST Special Publication 800-126A) and a set of schemas, collectively define the technical composition of SCAP version 1.3 in terms of its component specifications, their interrelationships and interoperation, and the requirements for SCAP content. <br/>
+<br/>
