@@ -98,7 +98,7 @@ A comprehensive update of the security controls catalog.<br/>
 The document is an information security guideline. Its purpose is to provide sets of requirements for the OMB-04-04 Levels of Assurance in the areas of identity proofing, registration, tokens, management processes, authentication protocols and assertion mechanisms. <br/>
 <br/>
 **NIST Digital Identity Guidelines (SP 800-63-3)** <br/>
-This documents is a set of digital identity guidelines that serves as a widely recognized benchmark for any organization or business wishing to implement identity verification and authentication services.<br/>
+This document is a set of digital identity guidelines that serves as a widely recognized benchmark for any organization or business wishing to implement identity verification and authentication services.<br/>
 <br/>
 **NIST Digital Identity Guidelines - Enrollment and Identity Proofing (SP 800-63A)**<br/>
 This guideline deals with how an individual, known as applicant, can prove their identity to a CSP (Credential Service Provider) and become enrolled as a valid identity.<br/>
@@ -140,7 +140,7 @@ This guide provides instructions, recommendations, and considerations for federa
 This document provides detailed information on establishing a forensic capability, including the development of policies and procedures, focusing primarily on using forensic techniques to assist with computer security incident response. <br/>
 <br/>
 **NIST Guidelines for Media Sanitization(SP 800-88)** <br/>
-This guide in intended to assist organizations and system owners in making practical sanitization decisions based on the level of confidentiality of their information. The described sanitization decision process can be applied universally.<br/>
+This guide is intended to assist organizations and system owners in making practical sanitization decisions based on the level of confidentiality of their information. The described sanitization decision process can be applied universally.<br/>
 <br/>
 **NIST Guide to LTE Security (SP 800-187)**<br/>
 This document serves as a guide to the fundamentals of how LTE networks operate and explores the LTE security architecture. This is followed by an analysis of the threats posed to LTE networks and supporting mitigations.<br/>
@@ -160,10 +160,10 @@ This document provides detailed information on key management planning, algorith
 **NIST Recommendation for Key Management- Part 2: Best Practices for Key Management Organization (SP 800-57)** <br/>
 This document provides guidance on policy and security planning requirements. <br/>
 <br/>
-**NIST Recommendation for Key management - Part 3: Application-Specific Key Management Guidance (SP 800-57 Revision 1)** <br/>
+**NIST Recommendation for Key Management - Part 3: Application-Specific Key Management Guidance (SP 800-57 Revision 1)** <br/>
 This document provides cryptographic key management guidance and best practices for the management of cryptographic keying material. <br/>
 <br/>
-**NIST National Initiative for Cybersecirty Education (NICE) Cybersecurity Workforce Framework (SP 800-181)** <br/>
+**NIST National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework (SP 800-181)** <br/>
 This framework provides a fundamental reference in support of a workforce capable of meeting an organization's cybersecurity needs by using a common, consistent lexicon to describe cybersecurity work by category, specialty area, and work role. It provides a superset of cybersecurity Knowledge, Skills, and Abilities (KSAs) and Tasks for each work role. The NICE Framework supports consistent organizational and sector communication for cybersecurity education, training, and workforce development. <br/>
 <br/>
 **NIST Security Self-Assessment Guide for Information Technology Systems (SP 800-26)** <br/>
@@ -190,11 +190,11 @@ This publication, along with its annex (NIST Special Publication 800-126A) and a
 This document provides technical guidance and recommendations for technologies that improve the security and robustness of interdomain traffic exchange.<br/>
 <br/>
 **NIST Guide to Secure Web Services (SP 800-95)**<br/>
-This document discusses how to make web services and portal apllications robust against the attacks to which they are subject. <br/>
+This document discusses how to make web services and portal applications robust against the attacks to which they are subject. <br/>
 <br/>
 **NIST Practical Combinatorial Testing (SP 800-142)** <br/>
 This document provides a self-contained tutorial on using combinatorial testing for real-world software, including how to use it effectively for system and software assurance. It introduces the key concepts and methods, explains use of software tools for generating combinatorial tests <br/>
 <br/>
 **NIST Guideline for Implementing Cryptography in the Federal Government (SP 800- 21)** <br/>
-This document is intended to provide a structured, yet flexible set of guidelines for selecting, specifying, employing, and evaluating cryptographic preotection mechanisms in Federal information systems- and this, makes a significant contribution toward satisfying the security requirements of FISMA, 2002.<br/>
+This document is intended to provide a structured, yet flexible set of guidelines for selecting, specifying, employing, and evaluating cryptographic protection mechanisms in Federal information systems- and this, makes a significant contribution toward satisfying the security requirements of FISMA, 2002.<br/>
 <br/>
