@@ -118,6 +118,10 @@ This document establishes guidelines and recommendations for securing and managi
 **NIST Guide to Intrusion Detection and Prevention Systems (IDPS) (SP 800-94)**<br/>
 This publication provides a basis for designing, implementing, configuring, securing, monitoring, and maintaining intrusion and prevention systems including a wireless intrusion detection system.<br/>
 <br/>
+**NIST Guide to Intrusion Detection and Prevention Systems (IDPS) (SP 800-94 Revision 1)**<br/>
+This document describes the characteristics of IDPS technologies and provides recommendations for designing,
+implementing, configuring, securing, monitoring, and maintaining them. <br/>
+<br/>
 **NIST Establishing Wireless Robust Security Networks: A Guide to IEEE 802.11i (SP 800-97)**<br/>
 This publication assists organizations in understanding, selecting, and implementing technologies based on IEEE 802.11i.<br/>
 <br/>
@@ -178,4 +182,16 @@ This document defines requirements for creating and processing SCAP content. The
 <br/>
 **NIST The Technical Specification for the Security Content Automation Protocol (SCAP): SCAP Version 1.3 (SP 800-126 Revision 3)** <br/>
 This publication, along with its annex (NIST Special Publication 800-126A) and a set of schemas, collectively define the technical composition of SCAP version 1.3 in terms of its component specifications, their interrelationships and interoperation, and the requirements for SCAP content. <br/>
+<br/>
+**NIST Secure Interdomain Traffic Exchange- BGP Robustness and DDoS Mitigation (SP 800-189)** <br/>
+This document provides technical guidance and recommendations for technologies that improve the security and robustness of interdomain traffic exchange.<br/>
+<br/>
+**NIST Guide to Secure Web Services (SP 800-95)**<br/>
+This document discusses how to make web services and portal apllications robust against the attacks to which they are subject. <br/>
+<br/>
+**NIST Practical Combinatorial Testing (SP 800-142)** <br/>
+This document provides a self-contained tutorial on using combinatorial testing for real-world software, including how to use it effectively for system and software assurance. It introduces the key concepts and methods, explains use of software tools for generating combinatorial tests <br/>
+<br/>
+**NIST Guideline for Implementing Cryptography in the Federal Government (SP 800- 21)** <br/>
+This document is intended to provide a structured, yet flexible set of guidelines for selecting, specifying, employing, and evaluating cryptographic preotection mechanisms in Federal information systems- and this, makes a significant contribution toward satisfying the security requirements of FISMA, 2002.<br/>
 <br/>
