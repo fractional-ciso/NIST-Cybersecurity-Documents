@@ -156,13 +156,16 @@ Recommendation for Key Management is intended primarily to help system administr
 <br/>
 **NIST Recommendation for Key Management- Part 1: General (Revision 4) (SP 800-57 Revision 4)** <br/>
 This document provides detailed information on key management planning, algorithm selection and appropriate key sizes, cryptographic policy, and cryptographic module selection. Organizations may be able to use the same or similar key management processes for end user devices' storage encryption, virtual private network (VPN) clients, and wireless client configuration. <br/>
+<br/>
 **NIST Recommendation for Key Management- Part 2: Best Practices for Key Management Organization (SP 800-57)** <br/>
 This document provides guidance on policy and security planning requirements. <br/>
 <br/>
 **NIST Recommendation for Key management - Part 3: Application-Specific Key Management Guidance (SP 800-57 Revision 1)** <br/>
 This document provides cryptographic key management guidance and best practices for the management of cryptographic keying material. <br/>
+<br/>
 **NIST National Initiative for Cybersecirty Education (NICE) Cybersecurity Workforce Framework (SP 800-181)** <br/>
 This framework provides a fundamental reference in support of a workforce capable of meeting an organization's cybersecurity needs by using a common, consistent lexicon to describe cybersecurity work by category, specialty area, and work role. It provides a superset of cybersecurity Knowledge, Skills, and Abilities (KSAs) and Tasks for each work role. The NICE Framework supports consistent organizational and sector communication for cybersecurity education, training, and workforce development. <br/>
+<br/>
 **NIST Security Self-Assessment Guide for Information Technology Systems (SP 800-26)** <br/>
 This document provided guidance on applying the Framework by identifying 17 control areas, such as those pertaining to identification and authentication and contingency planning. <br/>
 <br/>
