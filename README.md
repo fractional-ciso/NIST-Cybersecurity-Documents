@@ -199,18 +199,45 @@ This document provides a self-contained tutorial on using combinatorial testing 
 This document is intended to provide a structured, yet flexible set of guidelines for selecting, specifying, employing, and evaluating cryptographic protection mechanisms in Federal information systems- and this, makes a significant contribution toward satisfying the security requirements of FISMA, 2002.<br/>
 <br/>
 **NIST (SP 800-128)**<br/>
+This publication is intended to provide guidelines for organizations responsible for managing and administrating the security of federal information system computing environments. <br/>
+<br/>
 **NIST (SP 800-144)**<br/>
+This document provides an overview of public cloud computing and the security and privacy challenges involved. The document discusses the threats, technology risks, and safeguards for public cloud environments, and provides the insight needed to make informed information technology decisions on their treatment. <br/>
+<br/>
 **NIST (SP 800-145)**<br/>
+The purpose of this publication is to provide the NIST definition of cloud computing.<br/>
+<br/>
 **NIST (SP 800-146)**<br/>
+This guide explains cloud technologies in "plain terms" to federal agencies and provides recommendations for IT decision makers.<br/>
+<br/>
 **NIST (SP 800-147)**<br/>
+This document provides security guidelines for preventing the unauthorized modification of BIOS firmware on PC client systems.<br/>
+<br/>
 **NIST (SP 800-162)**<br/>
+This document provides Federal agencies with a definition of attribute based access control (ABAC).It is a methodology where authorization to perform a set of operations is determined by evaluating attributes associated with the subject, object, requested operations, and, in some cases, environment conditions against policy, rules, or relationships that describe the allowable operations for a given set of attributes. <br/>
+<br/>
 **NIST (SP 800-163)**<br/>
-**NIST 2012 (SP 800-165)**<br/>
+The publication provides key technical software assurance considerations for organizations as they adopt mobile app vetting processes.<br/>
+<br/>
+**NIST Computer Security Division Annual Report 2012 (SP 800-165)**<br/>
+This publication provides a summary of activities of the NIST Computer Security Division in 2012.<br/>
+<br/>
 **NIST (SP 800-167)**<br/>
-**NIST 2013 (SP 800-170)**<br/>
-**NIST 2014 (SP 800-176)**<br/>
-**NIST (SP 800-179)**<br/>
-**NIST 2015 (SP 800-182)**<br/>
-
+The purpose of this publication is to assist organizations in understanding the basics of application whitelisting by examining the basics of application whitelisting and explaining the planning and implementation for application whitelisting technologies throughout the security deployment lifecycle. <br/>
+<br/>
+**NIST Computer Security Division Annual Report 2013 (SP 800-170)**<br/>
+This publication provides a summary of activities of the NIST Computer Security Division in 2013.<br/>
+<br/>
+**NIST Computer Security Division Annual Report 2014 (SP 800-176)**<br/>
+This publication provides a summary of activities of the NIST Computer Security Division in 2014.<br/>
+<br/>
+**NIST Guide to Securing Apple OS X 10.10 Systems for IT Professionals: A NIST Security Configuration Checklist 
+(SP 800-179)**<br/>
+This document provides detailed information about the security features of OS X 10.10 and security configuration guidelines. <br/>
+<br/>
+**NIST Computer Security Division Annual Report 2015 (SP 800-182)**<br/>
+This publication provides a summary of activities of the NIST Computer Security Division in 2015.<br/>
+<br/>
 **NIST Framework for Improving Critical Infrastructure Cybersecurity Version 1.1** <br/>
-This is intended to be implememted by first-time and current Framework user.s 
+This is intended to be implememted by first-time and current Framework users.<br/> 
+<br/>
