@@ -198,3 +198,19 @@ This document provides a self-contained tutorial on using combinatorial testing 
 **NIST Guideline for Implementing Cryptography in the Federal Government (SP 800- 21)** <br/>
 This document is intended to provide a structured, yet flexible set of guidelines for selecting, specifying, employing, and evaluating cryptographic protection mechanisms in Federal information systems- and this, makes a significant contribution toward satisfying the security requirements of FISMA, 2002.<br/>
 <br/>
+**NIST (SP 800-128)**<br/>
+**NIST (SP 800-144)**<br/>
+**NIST (SP 800-145)**<br/>
+**NIST (SP 800-146)**<br/>
+**NIST (SP 800-147)**<br/>
+**NIST (SP 800-162)**<br/>
+**NIST (SP 800-163)**<br/>
+**NIST 2012 (SP 800-165)**<br/>
+**NIST (SP 800-167)**<br/>
+**NIST 2013 (SP 800-170)**<br/>
+**NIST 2014 (SP 800-176)**<br/>
+**NIST (SP 800-179)**<br/>
+**NIST 2015 (SP 800-182)**<br/>
+
+**NIST Framework for Improving Critical Infrastructure Cybersecurity Version 1.1** <br/>
+This is intended to be implememted by first-time and current Framework user.s 
