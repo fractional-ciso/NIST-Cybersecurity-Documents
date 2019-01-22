@@ -204,7 +204,7 @@ This publication is intended to provide guidelines for organizations responsible
 **NIST Guidelines on Security and Privacy on Public Cloud Computing (SP 800-144)**<br/>
 This document provides an overview of public cloud computing and the security and privacy challenges involved. The document discusses the threats, technology risks, and safeguards for public cloud environments, and provides the insight needed to make informed information technology decisions on their treatment. <br/>
 <br/>
-** The NIST Definition of Cloud Computing (SP 800-145)**<br/>
+**The NIST Definition of Cloud Computing (SP 800-145)**<br/>
 The purpose of this publication is to provide the NIST definition of cloud computing.<br/>
 <br/>
 **NIST Cloud Computing Synopsis and Recommendations (SP 800-146)**<br/>
