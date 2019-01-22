@@ -1,6 +1,6 @@
-**NIST-Cybersecurity-Documents**<br/>
-Source for NIST cybersecurity documents during government shutdown<br/>
-<br/>
+**NIST-Cybersecurity-Documents**
+Source for NIST cybersecurity documents during government shutdown
+
 **Standards for Security Categorization of Federal Information and Information Systems (FIPS PUB 199)**<br/>
 The Federal Information Processing Standards Publication Series of the National Institute of Standards and Technology (NIST) is the official series of publications relating to standards and guidelines adopted and promulgated under the provisions of Section 5131 of the Information Technology Management Reform Act of 1996 (Public Law 104-106) and the Federal Information Security Management Act of 2002 (Public Law 107-347).<br/>
 <br/>
@@ -136,6 +136,7 @@ This document was developed in an ongoing effort to produce a unified informatio
 <br/>
 **NIST Contingency Planning Guide for Federal Information Systems (SP 800-34 Revision 1)**<br/>
 This guide provides instructions, recommendations, and considerations for federal information system contingency planning.<br/>
+<br/>
 **NIST Guide to Integrating Forensic Techniques into Incident Response (SP 800-86)**<br/>
 This document provides detailed information on establishing a forensic capability, including the development of policies and procedures, focusing primarily on using forensic techniques to assist with computer security incident response. <br/>
 <br/>
@@ -321,24 +322,24 @@ This publication provides a summary of activities of the NIST Computer Security 
 **NIST Computer Security Division Annual Report 2012 (SP 800-165)**<br/>
 This publication provides a summary of activities of the NIST Computer Security Division in 2012.<br/>
 <br/>
-**NIST Guide to Application Whitelisting (SP 800-167)**<br/>
-The purpose of this publication is to assist organizations in understanding the basics of application whitelisting by examining the basics of application whitelisting and explaining the planning and implementation for application whitelisting technologies throughout the security deployment lifecycle. <br/>
-<br/>
 **NIST Computer Security Division Annual Report 2013 (SP 800-170)**<br/>
 This publication provides a summary of activities of the NIST Computer Security Division in 2013.<br/>
 <br/>
 **NIST Computer Security Division Annual Report 2014 (SP 800-176)**<br/>
 This publication provides a summary of activities of the NIST Computer Security Division in 2014.<br/>
 <br/>
-**NIST Guide to Securing Apple OS X 10.10 Systems for IT Professionals: A NIST Security Configuration Checklist 
-(SP 800-179)**<br/>
-This document provides detailed information about the security features of OS X 10.10 and security configuration guidelines. <br/>
-<br/>
 **NIST Computer Security Division Annual Report 2015 (SP 800-182)**<br/>
 This publication provides a summary of activities of the NIST Computer Security Division in 2015.<br/>
 <br/>
 **NIST Computer Security Division Annual Report 2016 (SP 800-195)** <br/>
 This publication provides a summary of activities of the NIST Computer Security Division in 2016.<br/>
+<br/>
+**NIST Guide to Securing Apple OS X 10.10 Systems for IT Professionals: A NIST Security Configuration Checklist 
+(SP 800-179)**<br/>
+This document provides detailed information about the security features of OS X 10.10 and security configuration guidelines. <br/>
+<br/>
+**NIST Guide to Application Whitelisting (SP 800-167)**<br/>
+The purpose of this publication is to assist organizations in understanding the basics of application whitelisting by examining the basics of application whitelisting and explaining the planning and implementation for application whitelisting technologies throughout the security deployment lifecycle. <br/>
 <br/>
 **NIST Specification for the Extensible Configuration Checklist Description Format (XCCDF) Version 1.2 (IR 7275 Revision 4)**<br/>
 This document specifies the data model and XML representation for the XCCDF Version 1.2. It is intended to provide a uniform foundation for expression of security checklists and other configuration guidance to foster more widespread application of good practices. <br/>
