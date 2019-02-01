@@ -311,6 +311,7 @@ This publication provides a summary of activities of the NIST Computer Security 
 **NIST Computer Security Division Annual Report 2009 (IR 7653)**<br/>
 This publication provides a summary of activities of the NIST Computer Security Division in 2009.<br/>
 <br/>
+<br/>
 **NIST Computer Security Division Annual Report 2010 (IR 7751)**<br/>
 This publication provides a summary of activities of the NIST Computer Security Division in 2010.<br/>
 <br/>
@@ -419,4 +420,150 @@ This document provides guidelines for identifying an information system as a nat
 <br/>
 **NIST Guidelines for Media Sanitization (SP 800-88)**<br/>
 This guide is intended to assist organizations and system owners in making practical sanitization decisions based on the level of confidentiality of their information. It does not, and cannot, specifically address all known types of media; however, the described sanitization decision process can be applied universally.<br/>
+<br/>
+
+**NIST Mobile Application Single Sign-On (SP 1800-13)**<br/>
+This guide discusses potential security risks facing organizations, benefits that may result from the implementation of an MFA/MSSO system and improving authentication for Public Safety First Responders. It includes Parts A (Executive Summary), B (Approach, Architecture, and Security Characteristics) and C (How-To Guides). <br/>
+<br/>
+**NIST Securing Manufacturing Industrial Control Systems: Behavioral Anomaly Detection (IR 8219)**<br/>
+This report documents the use of BAD capabilities in two distinct, but related, demonstration environments: a robotics-based manufacturing system and a process control system that resembles what is being used by chemical manufacturing industries.<br/> 
+<br/>
+**NIST Mobile Device Security- Cloud and Hybrid Builds (SP 1800-4)**<br/>
+This document proposes a reference design on how to architect enterprise-class protection for mobile devices accessing corporate resources. It includes Parts A (Executive Summary), B (Approach, Architecture, and Security Characteristics) and C (How-To Guides). <br/>
+<br/>
+
+**NIST Privileged Account Management for the Financial Services Sector (SP 1800-18)**<br/>
+This document demonstrated a PAM capability that effectively protects, monitors, and manages privileged account access, including life-cycle management, authentication, authorization, auditing, and access controls. It contains Parts A (Executive Summary), B (Approach, Architecture, and Security Characteristics) and C (How-To Guides).<br/>
+<br/>
+**NIST IT Asset Management (SP 1800-5)**<br/>
+This document focuses on an effective IT asset management (ITAM) solution that can tie together physical and virtual assets and provide management with a complete picture of what, where, and how assets are being used. It contains Parts A (Executive Summary), B (Approach, Architecture, and Security Characteristics) and C (How-To Guides). <br/>
+<br/>
+
+**NIST Situational Awareness for Electrical Utilities: Executive Summary (SP 1800-7A)**<br/>
+This guide offers a technical approach to meeting the security challenges faced by technology providers and energy sector stakeholders in deploying a comprehensive situational awareness capability. The guide provides a modular, end-to-end example solution that can be tailored and implemented by energy providers of varying sizes and sophistication. <br/>
+Part A- Executive Summary
+<br/>
+**NIST Situational Awareness for Electrical Utilities: Approach, Architecture, and Security Characteristics (SP 1800-7B)**<br/>
+Part B- Approach, Architecture, and Security Characteristics<br/>
+<br/>
+**NIST Situational Awareness for Electrical Utilities: How-To Guide (SP 1800-7C)**<br/>
+Part C- How-To Guide <br/>
+<br/>
+**NIST Identity and Access Management for Electrical Utilities (SP 1800-2)**<br/>
+This guide discusses identity and authentication management (IAM) across OT networks, physical access control systems (PACS), and IT systems for energy companies. It contains Parts A (Executive Summary), B (Approach, Architecture, and Security Characteristics) and C (How-To Guides). <br/>
+<br/>
+
+**NIST DNS-Based Electronic Mail Security: How-To Guide (SP 1800-6)**<br/>
+This document proposes a reference guide on how to architect, install, and configure a security platform for trustworthy email exchanges across organizational boundaries. This contains Parts A (Executive Summary), B (Approach, Architecture, and Security Characteristics) and C (How-To Guides). <br/>
+<br/>
+
+**NIST Data Integrity: Recovering from Ransomware and Other Destructive Events: Executive Summary (SP 1800-11A)**<br/>
+This Guide demonstrates how organizations can implement technologies to take immediate action following a data corruption event. <br/>
+Part A- Executive Summary<br/>
+<br/>
+**NIST Data Integrity: Recovering from Ransomware and Other Destructive Events: Approach, Architecture, and Security Characteristics (SP 1800-11B)**<br/>
+Part B- Approach, Architecture, and Security Characteristics <br/>
+<br/>
+**NIST Derived Personal Identity Verification (PIV) Credentials (SP 1800-12) Draft 2**<br/>
+These guidelines describe Derived PIV Credentials (DPC) that leverage identity proofing and vetting results of current and valid PIV credentials. It demonstrates how an organization can continue to provide MFA for users with a mobile device that leverages the strengths of PV standard. This document contains Parts A (Executive Summary), B (Approach, Architecture, and Security Characteristics), C (How-To Guides)<br/>
+<br/>
+**NIST Multifactor Authentication for E-Commerce (Risk-Based, FIDO Universal Second Factor Implementations for Purchasers) (SP 1800-17)**<br/>
+This NIST Cybersecurity Practice Guide demonstrates to online retailers that it is possible to implement open standards-based technologies to enable Universal Second Factor (U2F) authentication at the time of purchase when risk thresholds are exceeded. This document contains Parts A (Executive Summary), B (Approach, Architecture, and Security Characteristics), C (How-To Guides)<br/>
+<br/>
+
+**NIST Attribute Based Access Control (SP 1800-3)**<br/>
+This guide discusses potential security risks facing organizations, benefits that may result from the implementation of an ABAC system and the approach that the NCCoE took in developing a reference architecture and build. This document contains Parts A (Executive Summary), B (Approach, Architecture, and Security Characteristics), C (How-To Guides)<br/>
+<br/>
+** NIST/ITL Cybersecurity Program Annual Report 2016 (SP 800-195)**<br/>
+This annual report highlights the research agenda and activities in which ITLCybersecurity Program was engaged during FY 2016.<br/>
+<br/>
+
+**NIST/ITL Cybersecurity Program Annual Report 2017 (SP 800-203)**<br/>
+This annual report highlights the research agenda and activities in which ITLCybersecurity Program was engaged during FY 2017.<br/>
+<br/>
+**NIST Quick Start Guide for Populating Mobile Test Devices (SP 800-202)**<br/>
+This guide provides procedures for documenting and populating various data elements typically found within the contents of a mobile device, e.g., mobile phone, tablet, etc. The guide discusses techniques and considerations for preparing the internal memory of a mobile device for use in testing a mobile forensic tool. <br/>
+<br/>
+**NIST Platform Firmware Resiliency Guidelines (SP 800-193)**<br/>
+This document provides technical guidelines and recommendations supporting resiliency of platform firmware and data against potentially destructive attacks. <br/>
+<br/>
+**NIST Verification and Test Methods for Access Control Policies/Models (SP 800-192)**<br/>
+This document, reviews methods for the verification for AC models and the testing of model implementations by first defining standardized structures for AC models. <br/>
+<br/>
+**NIST Application Container Security Guide (SP 800-190)**<br/>
+This document explains the potential security concerns associated with the use of containers and provides recommendations for addressing these concerns.<br/>
+<br/>
+**NIST De-Identifying Government Datasets (SP 800-188)**<br/>
+This document provides specific guidance to government agencies that wish to use de-identification. It also includes an extensive list of references, a glossary, and a list of specific de-identification tools. <br/>
+<br/>
+**NIST A Comparison of Attribute Based Access Control (ABAC) Standards for Data Service Applications (SP 800-178)**<br/>
+This document describes XACML (Extensible Access Control Markup Language) and NGAC (Next Generation Access Control) and then compares them with respect to five criteria. The goal of this document is to help ABAC users and vendors make informed decisions when addressing future data service policy enforcement requirements. <br/>
+<br/>
+**NIST Trustworthy Email (SP 800-177)**<br/>
+This document gives recommendations and guidelines for enhancing trust in email. It applies to federal IT systems and will also be useful for small or medium sized organizatios.<br/>
+<br/>
+**NIST Guidelines for Using Cryptographic Standards in the Federal Government: Directives, Mandates and Policies (800-175A)**<br/>
+This document includes a summary of laws and regulations concerning the protection of the Federal Government’s sensitive information, guidance regarding the conduct of risk assessments to determine what needs to be protected and how best to protect that information, and discussion of the relevant security-related documents. <br/>
+<br/> 
+** NIST Guidelines for Using Cryptographic Standards in the Federal Government: Cryptographic Mechanisms (800-175B)**<br/>
+This document is intended to provide guidance to the Federal Government for using cryptography and NIST’s cryptographic standards to protect sensitive, but unclassified digitized information during transmission and while in storage. The cryptographic methods and services to be used are discussed. <br/>
+<br/>
+**NIST Guidelines on Hardware- Rooted Security in Mobile Devices (SP 800-164) Draft**<br/>
+The guidelines in this document are intended to provide a baseline of security technologies that can be implemented across a wide range of mobile devices to help secure organization-issued mobile devices as well as devices brought into an organization, such as personally-owned devices used in enterprise environments (BYOD).<br/>
+<br/>
+**NIST Supply Chain Risk Management Practices for Federal Information Systems and Organizations (SP 800-161)**<br/>
+This publication provides guidance to federal agencies on identifying, assessing, and mitigating ICT supply chain risks at all levels of their organizations. The publication integrates ICT supply chain risk management (SCRM) into federal agency risk management activities by applying a multitiered, SCRM- specific approach, including guidance on assessing supply chain risk and applying mitigation activities. <br/>
+<br/>
+**NIST Systems Security Engineering (Considerations for a Multidisciplinary Approach in the Engineering of Trustworthy Secure Systems) (SP 800-160 Volume 1)**<br/>
+This publication addresses the engineering-driven perspective and actions necessary to develop more defensible and survivable systems, inclusive of the machine, physical, and human components that compose the systems and the capabilities and services delivered by those systems. <br/>
+<br/>
+**NIST Systems Security Engineering (Cyber Resiliency Considerations for the Engineering of Trustworthy Secure Systems) (SP 800-160 Volume 2)**<br/>
+This document is intended to be used with NIST SP 800-160 Volume 1. This is a handbook for achieving the identified cyber resiliency outcomes based on a systems engineering perspective on system life cycle processes, allowing the experience and expertise of the organization to determine what is correct for its purpose. <br/>
+<br/>
+**NIST BIOS Integrity Measurement Guidelines (SP 800-155)**<br/>
+This document outlines the security components and security guidelines needed to establish a secure Basic Input/Output System (BIOS) integrity measurement and reporting chain. The document is intended for hardware and software vendors that develop products that can support secure BIOS integrity measurement mechanisms and may also be of use for organizations developing enterprise procurement or deployment strategies for these technologies. <br/> 
+<br/>
+
+**NIST Guide to Data-Centric System Threat modeling (SP 800-154)**<br/>
+This document provides information on the basis of data-centric system threat modeling so that organizations can successfully use it as part of their risk management process. It examines data-centric system threat modeling, which is threat modeling that is focused on protecting particular types of data within systems. <br/>
+<br/>
+**NIST A Profile for U.S. Federal Cryptographic Key Management Systems (SP 800-152)**<br/>
+This Profile for U. S. Federal Cryptographic Key Management Systems (FCKMSs) contains requirements for their design, implementation, procurement, installation, configuration, management, operation, and use by U. S. Federal organizations. <br/>
+<br/>
+**NIST Guide to Cyber Threat Information Sharing (SP 800-150)**<br/>
+This publication provides guidelines for establishing and participating in cyber threat information sharing relationships. It helps organizations establish information sharing goals, identify cyber threat information sources, scope information sharing activities, develop rules and make effective use of threat information in support of organization’s overall cybersecurity practices. <br/>
+<br/>
+**NIST Recommendation for Existing Application-Specific Key Derivation Functions (SP 800-135 Revision 1)**<br/>
+This recommendation provides security requirements for KDFs (Key Derivation Functions) that are used to generate the cryptographic keys required for their cryptographic functions. <br/>
+<br/>
+**NIST Randomized Hashing for Digital Signatures (SP 800-106)**<br/>
+This recommendation specifies a method to enhance the security of the cryptographic hash functions used in digital signature applications by randomizing the messages that are signed. <br/>
+<br/>
+**NIST Guide to Securing Microsoft Windows XP Systems for IT Professionals: A NIST Security Configuration Checklist (SP 800-68 Revision 1)**<br/>
+This publication seeks to assist IT professionals in securing Windows XP workstations, XP mobile computers, and XP computers used by telecommuters within various environments. <br/>
+<br/>
+**NIST Security Considerations for Voice Over IP Systems (SP 800-58) **<br/>
+This publication explains the challenges of VOIP security for U.S. government agencies and commercial users of VOIP, and outlines steps needed to help secure an organization’s VoIP network. <br/>
+
+<br/>
+**NIST Border Gateway Protocol Security (SP 800-54)**<br/>
+The purpose of this document is to provide agencies with background information on the Border Gateway Protocol and methods available for improving its security. <br/>
+<br/>
+**NIST Security Guide for Interconnecting Information Technology Systems (SP 800-47)**<br/>
+This document provides guidance for planning, establishing, maintaining, and terminating interconnections between information technology (IT) systems that are owned and operated by different organizations, including organizations within a single federal agency. <br/>
+<br/>
+
+**NIST Cloud Computing Security Reference Architecture (SP 500-299)**<br/>
+The purpose of this document is to define a Cloud Computing Security Reference Architecture that identifies a core set of security components, provides for each cloud actor, defines a security-centric formal architectural model and provides several approaches for analyzing the collected and aggregated data. 
+**NIST A Profile for IPv6 in the U.S. Government- Version 1.0 (SP 500-267) Draft**<br/>
+This publication seeks to assist Federal agencies in formulating plans for the acquisition of IPv6 technologies. <br/>
+<br/>
+**NIST Internet of Things Trust Concerns (IR 8222)**<br/>
+This document identifies 17 technical trust-related concerns for individuals and organizations before and after IoT adoption. It is intended for a general information technology audience including managers, supervisors, technical staff, and those involved in IoT policy decisions, governance, and procurement. <br/>
+<br/>
+**NIST Blockchain Technology Overview (IR 8202)**<br/>
+This document provides a high-level technical overview of blockchain technology. The purpose is to help readers understand how blockchain technology works. <br/>
+<br/>
+**NIST An Overview of Mobile Application Vetting Services for Public Safety (IR 8136)**<br/>
+This document is intended to be an overview of existing mobile application vetting services and the features these services provide and how they relate to public safety’s needs. It is also meant to aid public safety organizations when choosing which mobile application vetting services are used to evaluate relevant mobile applications. <br/>
 <br/>
