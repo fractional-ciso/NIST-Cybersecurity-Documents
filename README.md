@@ -540,7 +540,8 @@ The purpose of this document is to provide agencies with background information 
 This document provides guidance for planning, establishing, maintaining, and terminating interconnections between information technology (IT) systems that are owned and operated by different organizations, including organizations within a single federal agency. <br/>
 <br/>
 **NIST Cloud Computing Security Reference Architecture (SP 500-299)**<br/>
-The purpose of this document is to define a Cloud Computing Security Reference Architecture that identifies a core set of security components, provides for each cloud actor, defines a security-centric formal architectural model and provides several approaches for analyzing the collected and aggregated data. 
+The purpose of this document is to define a Cloud Computing Security Reference Architecture that identifies a core set of security components, provides for each cloud actor, defines a security-centric formal architectural model and provides several approaches for analyzing the collected and aggregated data. <br/>
+<br/>
 **NIST A Profile for IPv6 in the U.S. Government- Version 1.0 (SP 500-267) Draft**<br/>
 This publication seeks to assist Federal agencies in formulating plans for the acquisition of IPv6 technologies. <br/>
 <br/>
