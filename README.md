@@ -554,3 +554,18 @@ This document provides a high-level technical overview of blockchain technology.
 **NIST An Overview of Mobile Application Vetting Services for Public Safety (IR 8136)**<br/>
 This document is intended to be an overview of existing mobile application vetting services and the features these services provide and how they relate to public safety’s needs. It is also meant to aid public safety organizations when choosing which mobile application vetting services are used to evaluate relevant mobile applications. <br/>
 <br/>
+**NIST Assessing Security Requirements for Controlled Unclassified Information (SP 800-171A)**<br/>
+This publication provides federal and nonfederal organizations with assessment procedures and a methodology that can be employed to conduct assessments of the CUI security requirements in NIST SP 800-171.<br/>
+<br/>
+**NIST Automation Support for Security Control Assessments Volume 1: Overview (IR 8011 Volume 1)**<br/>
+This volume introduces concepts to support automated assessment of most of the security controls in NIST SP 800-53. <br/>
+<br/>
+**NIST Automation Support for Security Control Assessments Volume 2: Hardware Asset Management (IR 8011 Volume 2)**<br/>
+This document addresses the Hardware Asset Management (HWAM) information security capability. The focus of HWAM capability is to manage risk created by unmanaged or unauthorized software on network.<br/>
+<br/> 
+**NIST Automation Support for Security Control Assessments: Software Asset Management (IR 8011 Volume 3)** <br/>
+This document addresses the Software Asset Management (SWAM) information security capability. The focus of SWAM capability is to manage risk created by unmanaged or unauthorized software on network.<br/>
+<br/> 
+**NIST Guide for Developing Security Plans for Federal Information Systems (SP 800-18 Revision 1)**<br/>
+The purpose of this guide is to provide an overview of the security requirements of the system and describe the controls in place or planned for meeting those requirements.<br/>
+<br/>
